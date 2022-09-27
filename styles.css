@@ -5,7 +5,7 @@
 }
 
 body {
-    background: linear-gradient(180deg, rgb(167, 173, 169) 40%, rgb(169, 207, 198) 60%);
+    background-color: rgb(169, 207, 198) 60%);
     background-repeat: no-repeat;
 
 }
